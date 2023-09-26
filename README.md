@@ -1,15 +1,15 @@
 # GitHub Universe Livestream Nürnberg
 
-![image](https://github.com/codingkrabbe/wir-haben-eine-konferenz-zu-hause/assets/34913588/4215f348-18a4-49cb-a550-0b2f046db218)
+![a5c3f030db3069211d4aa4a672d6c48e](https://github.com/codingkrabbe/wir-haben-eine-konferenz-zu-hause/assets/34913588/4c91ddf6-0154-4b46-b519-041e6455bf66)
 
 ## Eckdaten für unsere Privat-GitHub Streaming Konferenz
 
-Ort: Siehe Beschreibung in der Signal Gruppe
-Parkplätze: geht normalerweise in der näheren Umgebung
-Zeit: 08.11. 18:30 Treffen, Keynote ab 19:00
-Snacks&Getränke: ich werd Bier / Limo und paar Snacks besorgen, Spenden sind gern gesehen ;-)
-Übertragung: Auf unserem Beamer
-Conference Agenda: https://reg.githubuniverse.com/flow/github/universe23/sessioncatalog/page/sessioncatalog
+- Ort: Siehe Beschreibung in der Signal Gruppe
+- Parkplätze: geht normalerweise in der näheren Umgebung
+- Zeit: 08.11. 18:30 Treffen, Keynote ab 19:00
+- Snacks&Getränke: ich werd Bier / Limo und paar Snacks besorgen, Spenden sind gern gesehen ;-)
+- Übertragung: Auf unserem Beamer
+- Conference Agenda: https://reg.githubuniverse.com/flow/github/universe23/sessioncatalog/page/sessioncatalog
 
 ## Ablauf
 
@@ -19,7 +19,7 @@ Ich würd den Raum aufsperren und wir bauen kollaborativ den Stream hin.
 
 ### 19:00 - 19:45
 
-Die stirring "stirring, high velocity keynote" vom GitHub CEO
+Die "stirring, high velocity keynote" vom GitHub CEO
 
 ### 19:45 - 20:30
 
@@ -38,7 +38,7 @@ Andere Downtime Activities die wir hinkriegen:
 
 ### 20:30-21:10
 
-Erster Vortrags-Slot, mit 4 parallelen Vorträgen die all gleichzeitig starten
+Erster Vortrags-Slot, mit 4 parallelen Vorträgen die alle gleichzeitig starten
 
 ### 21:15++
 
