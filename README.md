@@ -43,3 +43,7 @@ Erster Vortrags-Slot, mit 4 parallelen Vorträgen die alle gleichzeitig starten
 ### 21:15++
 
 Ab hier verteilen sich die Sessions mehr, ich denk wir sollten nach einer Session einfach laut schreien welche man als nächstes gucken will :-)
+
+## ToDos
+
+- Tanz-Roboter an den Start bringen
