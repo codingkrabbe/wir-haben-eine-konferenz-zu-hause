@@ -1,9 +1,15 @@
 # GitHub Universe Livestream Nürnberg
 
-_UPDATE: ALLES UM EINE STUNDE NACH VORN!_
+
+
+
+# _UPDATE: ALLES UM EINE STUNDE NACH VORN! GEHT UM 18:00 los!_
 
 
 ![a5c3f030db3069211d4aa4a672d6c48e](https://github.com/codingkrabbe/wir-haben-eine-konferenz-zu-hause/assets/34913588/4c91ddf6-0154-4b46-b519-041e6455bf66)
+
+
+# _UPDATE: ALLES UM EINE STUNDE NACH VORN! GEHT UM 18:00 los!_
 
 ## Eckdaten für unsere Privat-GitHub Streaming Konferenz
 
